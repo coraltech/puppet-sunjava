@@ -1,0 +1,3 @@
+class { 'sunjava':
+  jdk => true,
+}
